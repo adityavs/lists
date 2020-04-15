@@ -11,7 +11,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * [Lists of lists of lists](#lists-of-lists-of-lists)
     * [Lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists)
       * [Lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists)
-        * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
+        * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
+          * [Lists of lists of lists of lists of lists of lists](#lists-of-lists-of-lists-of-lists-of-lists-of-lists-of-lists) 😱
 
 <!-- lists-start -->
 
@@ -35,6 +36,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kimchi](https://github.com/jeyraof/awesome-kimchi) – Kimchi of the people, by the people, for the people.
 * [awesome-lego](https://github.com/adius/awesome-lego)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) – Guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+* [awesome-maps](https://github.com/simsieg/awesome-maps) - Various Online Maps 
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) – Articles, websites and resources about mental health in the software industry.
   - https://dreamingechoes.github.io/awesome-mental-health
 * [awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) – Parasites and host-pathogen interactions.
@@ -82,6 +84,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
 * [shelfies](https://github.com/kyro/shelfies) – Bookshelves of awesome people, community-transcribed.
 * [SiliconValleyThingsToDo](https://github.com/cjbarber/SiliconValleyThingsToDo) – Things to do and activities within Silicon Valley.
+* [stayinghomeclub](https://github.com/phildini/stayinghomeclub) – All the companies working from home or events changed because of covid-19.
+  - https://stayinghome.club
 * [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
@@ -303,6 +307,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
 * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) – Machine Learning and Deep Learning Tutorials
 * [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) – Machine learning in Ruby
+* [macos-apps](https://github.com/learn-anything/macos-apps)
 * [magictools](https://github.com/ellisonleao/magictools) – Game Development resources to make magic happen.
 * [maintenance-modules](https://github.com/maxogden/maintenance-modules) – NPM / Node.js modules useful for maintaining or developing modules
 * [manong](https://github.com/nemoTyrant/manong) _In Chinese_ – Weekly digest of technology
@@ -340,6 +345,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) – Alternative backend service providers ala [Parse](http://parse.com/).
 * [pattern_classification](https://github.com/rasbt/pattern_classification) – A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks.
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – Useful payloads and bypasses for Web Application Security and Pentest/CTF
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) – 100+ tips for protecting digital security and privacy
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) – Must-watch videos about PHP.
 * [phpvietnam/bookmarks](https://github.com/phpvietnam/bookmarks) – PHP resources for Vietnamese.
 * [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) – “Where can I post my startup to get beta users?”
@@ -535,6 +541,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+* [awesome-blender](https://github.com/agmmnn/awesome-blender) – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
 * [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) by @0xtokens – Blockchain and Crytocurrency Resources
 * [awesome-blockchain](https://github.com/coderplex/awesome-blockchain) by @coderplex – Blockchain, Bitcoin and Ethereum related resources
 * [awesome-blockchain](https://github.com/cyberFund/awesome-blockchain) _In Russian_ by @cyberFund – Digest of knowledge about crypto networks (including cryptocurrencies).
@@ -616,6 +623,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-conversational](https://github.com/mortenjust/awesome-conversational) – Conversational UI
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) _Apache Cordova / PhoneGap_
 * [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) – Models for Core ML (for iOS 11+)
+* [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) – Projects and resources related to SARS-CoV-2 and COVID-19.
 * [awesome-couchdb](https://github.com/quangv/awesome-couchdb) – CouchDB resource list.
 * [awesome-courses](https://github.com/fffaraz/awesome-courses) by @fffaraz – Online programming/CS courses.
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) by @prakhar1989 – University Computer Science courses across the web.
@@ -1063,6 +1071,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-rl](https://github.com/aikorea/awesome-rl) – Reinforcement Learning.
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – Recurrent Neural Networks.
 * [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) – Skills roadmaps for software development
+* [awesome-roam](https://github.com/roam-unofficial/awesome-roam) – Roam Research networked note-taking
 * [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) – [Robot Operating System](http://www.ros.org/)
   - https://fkromer.github.io/awesome-ros2
@@ -1172,6 +1181,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://git.io/v1hSm
 * [awesome-text-editing](https://github.com/dok/awesome-text-editing) – Text editing resources and libraries for the web
 * [awesome-textpattern](https://github.com/drmonkeyninja/awesome-textpattern) – Textpattern plugins and resources
+* [awesome-themes](https://github.com/AdrienTorris/awesome-themes) – Web themes and templates
 * [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) – [TikZ](https://pgf-tikz.github.io/) graph drawing package for TeX/LaTeX/ConTeXt
 * [awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) – [Apache TinkerPop](http://tinkerpop.apache.org/) graph computing framework
 * [awesome-token-sale](https://github.com/holographicio/awesome-token-sale) – Token sale / ICO resources
@@ -1297,6 +1307,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 * [awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/enedil/awesome-awesome-awesome-awesome-awesome-awesome)
 * [the one above](#lists-of-lists-of-lists-of-lists-of-lists)
+
+
+###### Lists of lists of lists of lists of lists of lists of lists
+
+* [awesome-awesome-awesome-awesome-awesome-awesome-awesome](https://github.com/sparanoid/awesome-awesome-awesome-awesome-awesome-awesome-awesome)
+* [the one above](#lists-of-lists-of-lists-of-lists-of-lists-of-lists)
 
 <!-- lists-end -->
 
